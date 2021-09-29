@@ -1,0 +1,18 @@
+{
+    "name": "DeHagge.SpellChecker.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:10db9913697086d4eaf79e076e4c8900"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
